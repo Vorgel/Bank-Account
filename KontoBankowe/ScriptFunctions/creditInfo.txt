@@ -1,0 +1,45 @@
+Bank name giving loan: SMKM INTERNATIONAL BANK 
+Date: Wed Nov 14 22:34:08 CET 2018
+Loan took for 12 months
+Loan: 60000 
+########################################
+Bank name giving loan: SMKM INTERNATIONAL BANK 
+Date: Thu Nov 15 09:36:11 CET 2018
+Loan took for 12 months
+Loan: 4000 
+########################################
+Bank name giving loan: SMKM INTERNATIONAL BANK 
+Date: Thu Nov 15 09:46:41 CET 2018
+Loan took for 300 months
+Loan: 10000 
+########################################
+Bank name giving loan: SMKM INTERNATIONAL BANK 
+Date: Thu Nov 15 09:49:28 CET 2018
+Loan took for 12 months
+Loan: 5000 
+########################################
+Bank name giving loan: SMKM INTERNATIONAL BANK 
+Date: Thu Nov 15 09:51:58 CET 2018
+Loan took for 12 months
+Loan: 4000 
+########################################
+Bank name giving loan: SMKM INTERNATIONAL BANK 
+Date: Thu Nov 15 10:02:33 CET 2018
+Loan took for 12 months
+Loan: 4300 
+########################################
+Bank name giving loan: SMKM INTERNATIONAL BANK 
+Date: Thu Nov 15 10:08:37 CET 2018
+Loan took for 12 months
+Loan: 2000 
+########################################
+Bank name giving loan: SMKM INTERNATIONAL BANK 
+Date: Thu Nov 15 10:16:44 CET 2018
+Loan took for 12 months
+Loan: 33333 
+########################################
+Bank name giving loan: SMKM INTERNATIONAL BANK 
+Date: Thu Nov 15 13:04:21 CET 2018
+Loan took for 12 months
+Loan: 5000 
+########################################

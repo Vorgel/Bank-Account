@@ -1,0 +1,4 @@
+Insurence type: Ubezpieczenie na zwierze 
+Cost per month  : 300 
+Insurence time: Ubezpieczenie na 36 miesiecy 
+#########################################

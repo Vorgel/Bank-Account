@@ -1,0 +1,16 @@
+Name: Maciej 
+Surname: Bsa21 
+Pesel: 11111111111 
+Phone: 823321321 
+Time of leasing: 12 months 
+Leasing taken: 5000 PLN
+Cost that need to be returen to the bank(RRSO 9%): 5450.00000000000000000000 PLN  
+########################################
+Name: Maciej 
+Surname: Bryla 
+Pesel: 12312312321 
+Phone: 324512321 
+Time of leasing: 12 months 
+Leasing taken: 3000 PLN
+Cost that need to be returen to the bank(RRSO 9%): 3270.00000000000000000000 PLN  
+########################################
